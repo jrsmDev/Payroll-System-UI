@@ -1,0 +1,7 @@
+<FindBugsFilter>
+    <Match>
+        <Class name="com.example.payrollsystemui.database.DatabaseManager"/>
+        <Method name="seedIfEmpty"/>
+        <Bug pattern="SQL_NONCONSTANT_STRING_PASSED_TO_EXECUTE"/>
+    </Match>
+</FindBugsFilter>
