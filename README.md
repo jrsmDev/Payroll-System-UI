@@ -43,7 +43,7 @@ db.user=root
 db.password=maskelz1905_
 ```
 
-> **Note:** The default config already points to `localhost:3306` with user `root`. Just change the password.
+
 
 ---
 
