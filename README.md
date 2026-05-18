@@ -40,7 +40,7 @@ Update the values to match your MySQL setup:
 ```properties
 db.url=jdbc:mysql://localhost:3306/payroll_db?useSSL=false&allowPublicKeyRetrieval=true&serverTimezone=Asia/Manila
 db.user=root
-db.password=your_password_here
+db.password=maskelz1905_
 ```
 
 > **Note:** The default config already points to `localhost:3306` with user `root`. Just change the password.
